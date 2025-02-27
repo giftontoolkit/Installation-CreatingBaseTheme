@@ -21,3 +21,13 @@
 
 - create folder in `www/gifton_2/wp-content/themes/`. I set name as `gifton_2`
 - Copy all files from `v1` folder and paste into above created folder
+
+Now below links will be active
+
+```console
+localhost/gifton_2/wp-admin
+```
+
+```console
+localhost/gifton_2/
+```
