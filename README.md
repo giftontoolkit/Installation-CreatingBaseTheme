@@ -6,9 +6,9 @@
 - create `wp-config.php` by copying `wp-config-sample.php`
 - set followings in this file
 
-  - DB_NAME as db_gifton_2
-  - DB_USER as root
-  - DB_PASSWORD as ''
+  - DB_NAME as `db_gifton_2`
+  - DB_USER as `root`
+  - DB_PASSWORD as `' '` i.e., null
 
 - open URL as `localhost/gifton_2`
 - and follow options.
@@ -31,3 +31,7 @@ localhost/gifton_2/wp-admin
 ```console
 localhost/gifton_2/
 ```
+
+In `wp-admin` link, there are some options in `Apprerance/Customize`.
+
+**We will increase these customize-options in our upcoming repositories.**
