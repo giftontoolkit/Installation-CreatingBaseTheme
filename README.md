@@ -38,4 +38,7 @@ In `wp-admin` link, there are some options in `Apprerance/Customize`.
 
 Till this repo, we just obtain below built-in options
 
-![Customize Options](/v1/images/customize_start.jpg)
+![All Customize Options](/images/customize_start.jpg)
+![Site Identity Options](/images/site_identity_options.jpg)
+![Menu Options](/images/menu_options.jpg)
+![HomePage Options](/images/homePage_options.jpg)
