@@ -38,5 +38,4 @@ In `wp-admin` link, there are some options in `Apprerance/Customize`.
 
 Till this repo, we just obtain below built-in options
 
-
-
+![Customize Options](/v1/images/customize_start.jpg)
