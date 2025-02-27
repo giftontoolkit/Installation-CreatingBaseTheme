@@ -38,5 +38,5 @@ In `wp-admin` link, there are some options in `Apprerance/Customize`.
 
 Till this repo, we just obtain below built-in options
 
-![customize_start](https://github.com/user-attachments/assets/69dffd7e-579f-4e26-850a-c2bffb4196c8)
+
 
