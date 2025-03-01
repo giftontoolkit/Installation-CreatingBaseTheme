@@ -8,7 +8,7 @@
 <body <?php body_class(); ?>>
 
     <h1>This is heading in index.php</h1>
-    <p>We got blogname by using <b>bloginfo</b> function. This blog name is <span style="color: red;"> <?php bloginfo('name')?> </span>This is set by using</p>
+    <p>We got blogname by using <b>bloginfo</b> function. This blog name is <span style="color: red;"> <?php bloginfo('name')?> </span></p>
    
 </body>
 </html>
